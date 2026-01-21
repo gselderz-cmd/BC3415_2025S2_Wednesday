@@ -1,1 +1,2 @@
-# BC3415_2025S2_Wednesday
+Before running need to type this into terminal
+pip install -r requirements.txt
