@@ -1,3 +1,8 @@
+Ensure that all below downloaded:
+pip install flask
+pip install groq
+
+
 To run, type
 python app.py
 Then open in browser
