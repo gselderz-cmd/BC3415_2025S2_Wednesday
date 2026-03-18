@@ -3,7 +3,6 @@ import joblib
 from groq import Groq
 import os
 
-
 client = Groq()
 
 model=joblib.load('DBS_SGD.pkl')
